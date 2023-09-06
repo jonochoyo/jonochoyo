@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jonathan! 👋
+I'm passionate about tech and interested in Programming and Cybersecurity.
 
+### :books: Student at 42 Adelaide
+- Currently working on: Pipex
 <!--
 **jonochoyo/jonochoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
