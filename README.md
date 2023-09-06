@@ -1,5 +1,5 @@
 ### Hi there, I'm Jonathan! 👋
-I'm passionate about tech and interested in Programming and Cybersecurity.
+I'm passionate about tech with an interest in Programming and Cybersecurity.
 
 ### :books: Student at 42 Adelaide
 - Currently working on: Pipex
