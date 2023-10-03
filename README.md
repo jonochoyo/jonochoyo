@@ -1,8 +1,7 @@
 ### Hi there, I'm Jonathan! 👋
-I'm passionate about tech with an interest in Programming and Cybersecurity.
 
 ### :books: Student at 42 Adelaide
-- Currently working on: Pipex
+- Currently working on: push_swap
 <!--
 **jonochoyo/jonochoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
