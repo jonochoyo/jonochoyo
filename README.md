@@ -1,7 +1,4 @@
-### Hi there, I'm Jonathan! 👋
-
-### :books: Student at 42 Adelaide
-- Currently working on: push_swap
+### Hi there, I'm Jonathan!
 <!--
 **jonochoyo/jonochoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
